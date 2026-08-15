@@ -1,6 +1,6 @@
 # Hello Claude PR
 
-This is a smal practice repository created to lern how to open a pull request on GitHub.
+This is a small practice repository created to learn how to open a pull request on GitHub.
 
 ## What this is for
 
